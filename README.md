@@ -1,1 +1,2 @@
-Repo for my Website
+# Repo for my personal Website
+## Built using React
