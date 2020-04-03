@@ -1,5 +1,5 @@
-import React from "react"
-import Layout from "../components/Layout"
+import React from "react";
+import Layout from "../components/Layout";
 
 export default () => (
   <Layout>
@@ -52,5 +52,12 @@ export default () => (
       An unholy number of hours of <i>Animal Crossing: New Horizons </i> has
       been catalogued on my Switch recently.
     </p>
+    <h2>What I'm Listening to</h2>
+    <p>
+      Check out my{" "}
+      <a href="https://open.spotify.com/user/bailmom?si=HnySc7goQ_qvEPz4PGkTrw">
+        Spotify!
+      </a>
+    </p>
   </Layout>
-)
+);
