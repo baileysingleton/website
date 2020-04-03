@@ -1,13 +1,13 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from "react";
+import { Link } from "gatsby";
 
 const activeStyles = {
   // color: "blue",
   fontWeight: "bold",
   backgroundImage: "none",
-}
+};
 
-const ListLink = props => (
+const ListLink = (props) => (
   <li style={{ display: `inline-block`, marginRight: `1rem` }}>
     <Link
       to={props.to}
@@ -17,7 +17,7 @@ const ListLink = props => (
       {props.children}
     </Link>
   </li>
-)
+);
 
 export default ({ children }) => (
   <div style={{ margin: `3rem auto`, maxWidth: 700, padding: `0 1rem` }}>
@@ -34,6 +34,6 @@ export default ({ children }) => (
     {children}
 
     <hr />
-    <div>Last updated April 2nd, 2020</div>
+    <div>Last updated April 3rd, 2020</div>
   </div>
-)
+);

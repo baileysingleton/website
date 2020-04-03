@@ -37,14 +37,14 @@ export default () => (
       </li>
     </ul>
     <hr />
-    <h2>Internships</h2>
+    <h1>Internships</h1>
     <p>
       I went through <a href="https://www.mecopinc.org/">MECOP</a> while at
       Oregon State, and landed two six-month internships. This extended my time
       at school slightly, but gave me an extra year of experience in the
       industry.{" "}
     </p>
-    <h3>Portland General Electric</h3>
+    <h2>Portland General Electric</h2>
     <p>
       At PGE I first worked on the Business Intelligence team doing Data
       Warehousing, and became familiar with the ETL procedure. I had the
@@ -62,7 +62,7 @@ export default () => (
       Azure, and Google Cloud Platform.
     </p>
 
-    <h3>Mentor Graphics</h3>
+    <h2>Mentor Graphics</h2>
     <p>
       Mentor Graphics gave me the wonderful opportunity to work as a QA Intern
       on the Calibre team. I was continually improving their nightly automated

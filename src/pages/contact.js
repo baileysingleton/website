@@ -1,5 +1,5 @@
-import React from "react"
-import Layout from "../components/Layout"
+import React from "react";
+import Layout from "../components/Layout";
 
 export default () => (
   <Layout>
@@ -12,7 +12,9 @@ export default () => (
     <p>
       {" "}
       You can also find me on{" "}
-      <a href="https://www.linkedin.com/in/bailey-singleton">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/bailey-singleton">
+        LinkedIn
+      </a> and <a href="https://github.com/baileysingleton">Github</a>.
     </p>
   </Layout>
-)
+);
