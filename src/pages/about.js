@@ -1,5 +1,5 @@
-import React from "react"
-import Layout from "../components/Layout"
+import React from "react";
+import Layout from "../components/Layout";
 
 export default () => (
   <Layout>
@@ -42,8 +42,7 @@ export default () => (
       I went through <a href="https://www.mecopinc.org/">MECOP</a> while at
       Oregon State, and landed two six-month internships. This extended my time
       at school slightly, but gave me an extra year of experience in the
-      industry. It also let me enter the workforce at the start the Coronavirus
-      outbreak!
+      industry.{" "}
     </p>
     <h3>Portland General Electric</h3>
     <p>
@@ -82,4 +81,4 @@ export default () => (
       ensure a smooth transition of over twenty-five thousand issues to JIRA.
     </p>
   </Layout>
-)
+);
