@@ -1,2 +1,2 @@
 # Repo for my personal Website
-## Built using React
+Bootstrapped with GatsbyJS
