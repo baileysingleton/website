@@ -37,6 +37,13 @@ export default () => (
       </li>
     </ul>
     <hr />
+    <h1>Jobs</h1>
+    <h2>Intel Co.</h2>
+    <p>
+      I have been working fully remote for Intel during the pandemic, as an Automation and Validation Engineer.
+      While working here I have gained a ton of skills doing test automation for UI, and manual UI validation for releases.
+      This job has given me the validation mindset, so that I am able to develop with validation in mind. Love working here and my team is awesome :)
+      </p>
     <h1>Internships</h1>
     <p>
       I went through <a href="https://www.mecopinc.org/">MECOP</a> while at

@@ -28,29 +28,27 @@ export default () => (
 
     <h2>What I'm Reading</h2>
     <p>
-      Currently, I'm enjoying J.R.R Tolkien's <i>The Hobbit.</i>
+      Currently, I'm enjoying Ocean Vuong's <i>On Earth We're Briefly Gorgeous</i>
     </p>
     <p>
-      Some recent reads of note include Frank Herbert's classic <i>Dune</i>, Dan
+      Some recent reads of note include <i>The Three-Body Problem</i> by Cixin Liu, Frank Herbert's classic <i>Dune</i>, Dan
       Simmons' <i>Hyperion</i>, and Blake Crouch's page-turner <i>Recursion</i>{" "}
-      (I'm on a bit of a Sci-Fi kick). I'm also counting down the days until
-      book 4 of <i>The Stormlight Archive</i> by Brandon Sanderson.
+      (I'm on a bit of a Sci-Fi kick). 
     </p>
 
     <h2>What I'm Watching</h2>
     <p>
       I have just started to get active on{" "}
       <a href="https://letterboxd.com/bailmom/">Letterboxd</a>, and my lists are
-      nowhere near complete.
+      nowhere near complete. Most recent movie I've seen (twice) was <i>Everything Everywhere All At Once</i>
     </p>
     <p>
-      TV show-wise, I'm a bit of a sucker for cartoons and <i>Breaking Bad</i>.
+      TV show-wise, I'm a bit of a sucker for cartoons/anime and <i>Breaking Bad</i>.
     </p>
 
     <h2>What I'm Playing</h2>
     <p>
-      An unholy number of hours of <i>Animal Crossing: New Horizons </i> has
-      been catalogued on my Switch recently.
+      I've been a bit addicted to <i>Elden Ring</i> and <i>Mini Motorways</i> 
     </p>
     <h2>What I'm Listening to</h2>
     <p>
