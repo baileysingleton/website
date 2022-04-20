@@ -22,33 +22,42 @@ export default () => (
       First and foremost, this website! It is written using{" "}
       <a href="https://www.gatsbyjs.org/">GatsbyJS</a> to try something new. It
       is still a bit of a work-in-progress, but I am hoping to use this site to
-      showcase my work and anything interesting about my life. Check back for
-      updates!
+      showcase my work and anything interesting about my life. Other than this,
+      I spend my 9-5 working for Intel on their overclocking program
+      <a href="intel.com/content/www/us/en/download/17881/intel-extreme-tuning-utility-intel-xtu.html">
+        Extreme Tuning Utility
+      </a>
+      . I work as an automation and validation engineer with some really
+      wonderful people. Check back for updates!
     </p>
 
     <h2>What I'm Reading</h2>
     <p>
-      Currently, I'm enjoying Ocean Vuong's <i>On Earth We're Briefly Gorgeous</i>
+      Currently, I'm enjoying Ocean Vuong's{" "}
+      <i>On Earth We're Briefly Gorgeous</i>
     </p>
     <p>
-      Some recent reads of note include <i>The Three-Body Problem</i> by Cixin Liu, Frank Herbert's classic <i>Dune</i>, Dan
-      Simmons' <i>Hyperion</i>, and Blake Crouch's page-turner <i>Recursion</i>{" "}
-      (I'm on a bit of a Sci-Fi kick). 
+      Some recent reads of note include <i>The Three-Body Problem</i> by Cixin
+      Liu, Frank Herbert's classic <i>Dune</i>, Dan Simmons' <i>Hyperion</i>,
+      and Blake Crouch's page-turner <i>Recursion</i> (I'm on a bit of a Sci-Fi
+      kick).
     </p>
 
     <h2>What I'm Watching</h2>
     <p>
       I have just started to get active on{" "}
       <a href="https://letterboxd.com/bailmom/">Letterboxd</a>, and my lists are
-      nowhere near complete. Most recent movie I've seen (twice) was <i>Everything Everywhere All At Once</i>
+      nowhere near complete. Most recent movie I've seen (twice) was{" "}
+      <i>Everything Everywhere All At Once</i>
     </p>
     <p>
-      TV show-wise, I'm a bit of a sucker for cartoons/anime and <i>Breaking Bad</i>.
+      TV show-wise, I'm a bit of a sucker for cartoons/anime and{" "}
+      <i>Breaking Bad</i>.
     </p>
 
     <h2>What I'm Playing</h2>
     <p>
-      I've been a bit addicted to <i>Elden Ring</i> and <i>Mini Motorways</i> 
+      I've been a bit addicted to <i>Elden Ring</i> and <i>Mini Motorways</i>
     </p>
     <h2>What I'm Listening to</h2>
     <p>

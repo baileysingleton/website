@@ -34,6 +34,6 @@ export default ({ children }) => (
     {children}
 
     <hr />
-    <div>Last updated April , 2022</div>
+    <div>Last updated April 19th, 2022</div>
   </div>
 );
