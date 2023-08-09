@@ -1,5 +1,6 @@
 import React from "react";
 import Layout from "../components/Layout";
+import space_heavy from "../albums/space_heavy.jpeg";
 
 export default () => (
   <Layout>
@@ -37,11 +38,6 @@ export default () => (
     <p>
       Haruki Murakami's <i>The Wind-Up Bird Chronicle</i>
     </p>
-    <p>
-      Some recent reads of note include <i>The Three-Body Problem</i> by Cixin
-      Liu, Frank Herbert's classic <i>Dune</i>, Dan Simmons' <i>Hyperion</i>,
-      and Blake Crouch's page-turner <i>Recursion</i> .
-    </p>
 
     <h2>What I'm Watching</h2>
     <p>
@@ -55,6 +51,7 @@ export default () => (
           King Krule's{" "}
           <a href="https://www.youtube.com/watch?v=A712DL56J9Q&list=PLOSwlsmq24NCI_CqrkLYXEagSQIwJbpfQ">
             <i>Space Heavy</i>
+            <img alt="ligma" src={space_heavy} />
           </a>
         </li>
         <li>
