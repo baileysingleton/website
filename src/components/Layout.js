@@ -29,11 +29,12 @@ export default ({ children }) => (
         <ListLink to="/">Home</ListLink>
         <ListLink to="/about/">About</ListLink>
         <ListLink to="/contact/">Contact</ListLink>
+        <ListLink to="/photos/">Photos</ListLink>
       </ul>
     </header>
     {children}
 
     <hr />
-    <div>Last updated April 19th, 2022</div>
+    <div>Last updated August 8th, 2023</div>
   </div>
 );
