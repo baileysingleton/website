@@ -1,6 +1,8 @@
 import React from "react";
 import Layout from "../components/Layout";
 import space_heavy from "../albums/space_heavy.jpeg";
+import Album from "../components/Album";
+import AlbumShower from "../components/AlbumShower";
 
 export default () => (
   <Layout>
@@ -45,11 +47,11 @@ export default () => (
     </p>
 
     <h2>What I'm Listening to</h2>
-    <p>
-      <ul>
+    <AlbumShower />
+    {/* <ul>
         <li>
           King Krule's{" "}
-          <a href="https://www.youtube.com/watch?v=A712DL56J9Q&list=PLOSwlsmq24NCI_CqrkLYXEagSQIwJbpfQ">
+          <a href="">
             <i>Space Heavy</i>
             <img alt="ligma" src={space_heavy} />
           </a>
@@ -66,7 +68,6 @@ export default () => (
             <i>Thought For Food</i>
           </a>
         </li>
-      </ul>
-    </p>
+      </ul> */}
   </Layout>
 );
